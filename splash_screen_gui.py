@@ -4,6 +4,7 @@ from PIL import ImageTk, Image
 import time
 from selectFilePage import secondPage
 
+
 w = Tk()
 
 # Using piece of code from old splash screen
@@ -74,5 +75,5 @@ for i in range(2):  # 5loops
 
 
 w.destroy()
-new_win()
+secondPage()
 w.mainloop()
