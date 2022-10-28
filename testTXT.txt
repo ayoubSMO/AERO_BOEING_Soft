@@ -1,3 +1,7 @@
 I m the first owner
 
+<<<<<<< HEAD
 Im the second owner
+=======
+I m the third editor ! 
+>>>>>>> 0be275b8be9a3776dc02e4ef718442e89363fc60
